@@ -36,7 +36,7 @@ Our slack work space
 1. Markdown CheatSheet  
    [Markdown CheatSheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-# JAvaScript
+# JavaScript
 
 1. JavaScript
    [useful links](./javaScript)
