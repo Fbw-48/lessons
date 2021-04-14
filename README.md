@@ -40,3 +40,7 @@ Our slack work space
 
 1. JavaScript
    [useful links](./javaScript)
+
+## HTML & CSS
+
+ [HTML & CSS more great resources](html-css/README.md)
