@@ -27,6 +27,18 @@ Our slack work space
 
 1. History of CLI  
    [Video](https://www.youtube.com/watch?v=4RPtJ9UyHS0&feature=youtu.be)
+## The Internet
+
+1. A youTube video about the history of the internet (2018)  
+   [History of the internet](https://www.youtube.com/watch?v=oNUl_9ZYA6w)
+
+1. History of the Internet  
+   [Internet Society](https://www.internetsociety.org/internet/history-internet/)
+
+## GIT
+
+ [git all the great resources](GIT-README.md)
+
 
 ## Markdown
 
