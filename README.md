@@ -47,4 +47,4 @@ Our slack work space
 
 ## DOM
 
-[HTML & CSS more great resources](dom/README.md)
+[DOM more great resources](./DOM-README.md)
