@@ -43,7 +43,7 @@ Our slack work space
 
 ## HTML & CSS
 
- [HTML & CSS more great resources](html-css/README.md)
+ [HTML & CSS more great resources](./HTML-CSS-README.md)
 
 ## DOM
 
