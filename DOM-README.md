@@ -6,3 +6,4 @@
 4. [Global-Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
 5. [Node-Tree](https://dom.spec.whatwg.org/#concept-node)
 6. [color-hex](https://www.color-hex.com/)
+6. [All events](https://developer.mozilla.org/en-US/docs/Web/Events)
