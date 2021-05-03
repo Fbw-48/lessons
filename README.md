@@ -14,8 +14,7 @@ Our slack work space
 1. Package management on Ubuntu using **apt**  
    [Ubuntu Help Page: apt](https://help.ubuntu.com/lts/serverguide/apt.html.en)
 
-1. Set command aliases  
-   [Set aliases Ubuntu/Debian Linux](https://www.hostingadvice.com/how-to/set-command-aliases-linuxubuntudebian/)
+
 
 ## Terminal
 
